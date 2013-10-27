@@ -1,4 +1,1 @@
 BrainFuck-Hacks
-===============
-
-#SEHackDay
